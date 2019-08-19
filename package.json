@@ -30,6 +30,7 @@
     "redux-thunk": "^2.3.0",
     "store": "^2.0.12"
   },
+
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
